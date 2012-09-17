@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904271.9838672:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924496.4844036:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%8268aed478a40aa6f2ea046bb0fbd164I"logical_path;
+F"%b2c7dc712c99f121922ad910dd7ff76bI"logical_path;
 FI"-twitter/bootstrap/bootstrap-typeahead.js;
 FI"pathname;
 FI"›/home/poguez/.rvm/gems/ruby-1.9.3-p194/bundler/gems/twitter-bootstrap-rails-33e73ca9f3fc/vendor/assets/javascripts/twitter/bootstrap/bootstrap-typeahead.js;
@@ -323,5 +323,5 @@ mtime;
 FIu:	Time0"€OïXâ
 :@_zoneI"CDT;
 T:nano_numi4:nano_deni:submicro"0€:offsetiþ°¹I"hexdigest;
-F"%2ba22cfffbcd7e05039e68269c10fdf8I"_version;
-F"%0868aba5d4b750d3a9421721ea3d9b9c
+F"%7f2c0d3076b96a2810f39690295db4aeI"_version;
+F"%df7525e917401704ef453cb56bf16697

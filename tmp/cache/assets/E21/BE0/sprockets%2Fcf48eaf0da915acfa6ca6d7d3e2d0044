@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904254.74044:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924502.156443:@value{I"
 class:EFI"StaticAsset;
 FI"id;
-F"%ab66d9cbff65f140884590be3e158497I"logical_path;
+F"%a2a1004b95cb961dd96dc343dd4db4deI"logical_path;
 FI"*jquery-ui/ui-icons_cd0a0a_256x240.png;
 FI"pathname;
 FI"|/home/poguez/.rvm/gems/ruby-1.9.3-p194/gems/jquery-ui-rails-2.0.0/vendor/assets/images/jquery-ui/ui-icons_cd0a0a_256x240.png;

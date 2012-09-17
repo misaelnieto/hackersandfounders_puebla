@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904271.974063:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924496.4543557:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%13f8b2584d0c2c1907a9946a7ffd8fcdI"logical_path;
+F"%e8e18f71e9fa2f2fed2a2c1fa1b144dcI"logical_path;
 FI",twitter/bootstrap/bootstrap-dropdown.js;
 FI"pathname;
 FI"š/home/poguez/.rvm/gems/ruby-1.9.3-p194/bundler/gems/twitter-bootstrap-rails-33e73ca9f3fc/vendor/assets/javascripts/twitter/bootstrap/bootstrap-dropdown.js;
@@ -173,5 +173,5 @@ mtime;
 FIu:	Time0"€OïXâ
 :@_zoneI"CDT;
 T:nano_numi4:nano_deni:submicro"0€:offsetiþ°¹I"hexdigest;
-F"%c87c004e7fd3c25f33f5e5b57191c2a5I"_version;
-F"%0868aba5d4b750d3a9421721ea3d9b9c
+F"%40bb4296c4418ecb525c335b6698606cI"_version;
+F"%df7525e917401704ef453cb56bf16697

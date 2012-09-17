@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904271.9752934:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924496.4560351:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%230f4e85ee0f64816e2d90fce304e486I"logical_path;
+F"%311506c5e2c59ac69ab961f09f392bb7I"logical_path;
 FI"-twitter/bootstrap/bootstrap-scrollspy.js;
 FI"pathname;
 FI"›/home/poguez/.rvm/gems/ruby-1.9.3-p194/bundler/gems/twitter-bootstrap-rails-33e73ca9f3fc/vendor/assets/javascripts/twitter/bootstrap/bootstrap-scrollspy.js;
@@ -174,5 +174,5 @@ mtime;
 FIu:	Time0"€OïXâ
 :@_zoneI"CDT;
 T:nano_numi4:nano_deni:submicro"0€:offsetiþ°¹I"hexdigest;
-F"%82ecd209ea8a4152b863b05f197db6f9I"_version;
-F"%0868aba5d4b750d3a9421721ea3d9b9c
+F"%4a51b88fe9d1374e0b5a0bdeb059ef0bI"_version;
+F"%df7525e917401704ef453cb56bf16697

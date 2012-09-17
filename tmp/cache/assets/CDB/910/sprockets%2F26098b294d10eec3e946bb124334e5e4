@@ -1,9 +1,9 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347906857.4573379:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924496.4239328:@value{I"
 class:EFI"StaticAsset;
 FI"id;
-F"%b56b88d5d4b6cce70efd7eb8bbe63e6eI"logical_path;
+F"%b1573b919bcf4877282e33c5a6f262acI"logical_path;
 FI"logo.png;
-TI"pathname;
+FI"pathname;
 FI"%$root/app/assets/images/logo.png;
 FI"content_type;
 FI"image/png;
@@ -14,5 +14,5 @@ FI"length;
 FI"
 20479;
 FI"digest;
-F"%5b7e89c25c4fc7185d6330ac349926dfI"_version;
-F"%0868aba5d4b750d3a9421721ea3d9b9c
+F"%5b45a4230b5677653eb58905b8030638I"_version;
+F"%df7525e917401704ef453cb56bf16697

@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904271.9826767:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347924496.4827695:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%55b1e4f761a56c75dbb175d11d52bba4I"logical_path;
+F"%f9f87a638b2da9c5b5269dd511e6cc9cI"logical_path;
 FI",twitter/bootstrap/bootstrap-carousel.js;
 FI"pathname;
 FI"š/home/poguez/.rvm/gems/ruby-1.9.3-p194/bundler/gems/twitter-bootstrap-rails-33e73ca9f3fc/vendor/assets/javascripts/twitter/bootstrap/bootstrap-carousel.js;
@@ -199,5 +199,5 @@ mtime;
 FIu:	Time0"€OïXâ
 :@_zoneI"CDT;
 T:nano_numi4:nano_deni:submicro"0€:offsetiþ°¹I"hexdigest;
-F"%1a69323e34c58f870888e51ffd34a5faI"_version;
-F"%0868aba5d4b750d3a9421721ea3d9b9c
+F"%240a1a48da568a7209a680e001f5b317I"_version;
+F"%df7525e917401704ef453cb56bf16697
