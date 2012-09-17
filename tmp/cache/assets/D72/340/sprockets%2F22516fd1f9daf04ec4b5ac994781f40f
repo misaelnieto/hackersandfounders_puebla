@@ -1,0 +1,30 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347907025.0775514:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%349c12131518e54e30c0cb1ccdde3b69I"logical_path;
+FI"styles.css;
+FI"pathname;
+FI",$root/app/assets/stylesheets/styles.css;
+FI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2012-09-17T13:36:04-05:00;
+FI"	body;
+FI"@.hero-unit {
+    text-align: center;
+    color: #585858;
+}
+;
+FI"asset_paths;
+F[I",$root/app/assets/stylesheets/styles.css;
+FI"dependency_paths;
+F[{I"	path;
+FI",$root/app/assets/stylesheets/styles.css;
+FI"
+mtime;
+FIu:	Time2"ÄlJLê
+:@_zoneI"CDT;
+T:nano_numi2:nano_deni:submicro"V :offseti˛∞πI"hexdigest;
+F"%d8137cb947cb901a916a33b8fa458e30I"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1347904254.7234132:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%bf5160303fff4937d0edc8625b7bc7a0I"logical_path;
+FI".jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png;
+FI"pathname;
+FI"€/home/poguez/.rvm/gems/ruby-1.9.3-p194/gems/jquery-ui-rails-2.0.0/vendor/assets/images/jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2012-09-05T14:56:53-05:00;
+FI"length;
+FI"120;
+FI"digest;
+F"%76cce7df3835009060f391c546cc3b75I"_version;
+F"%df7525e917401704ef453cb56bf16697
